@@ -28,9 +28,9 @@ For the code with the config note:
 | SDA     | D3 |
 
 Do you like it? You can send me some change as a reward
-BTC: bc1q763x4mg990fy862h28l5vd7eexdnuvww89wszj
-ETH: 0x247674d37843932562D42501553A845bcA5Cc9B6
-DOGE: DF1Ps9VnM5nP61R9Cj7g5rAE55dR3t4GU4
+* BTC: bc1q763x4mg990fy862h28l5vd7eexdnuvww89wszj
+* ETH: 0x247674d37843932562D42501553A845bcA5Cc9B6
+* DOGE: DF1Ps9VnM5nP61R9Cj7g5rAE55dR3t4GU4
 
 ### Images
 ![alt text](https://hodlerio.cz/CryptoDisplay/1.jpg "Display 1")
